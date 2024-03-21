@@ -1,0 +1,6 @@
+.options-list-buttons {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+}
